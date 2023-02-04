@@ -1,0 +1,1247 @@
+,selected_model,mean_accuracy
+0,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=2,
+              n_estimators=25, random_state=97, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+1,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=2,
+              n_estimators=25, random_state=93, subsample=0.8,
+              use_label_encoder=False)",0.5158415841584159
+2,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=2,
+              n_estimators=25, random_state=88, subsample=0.8,
+              use_label_encoder=False)",0.5346534653465346
+3,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=2, n_estimators=25,
+              random_state=89, subsample=0.8, use_label_encoder=False)",0.5158415841584159
+4,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=2,
+              n_estimators=25, random_state=94, subsample=0.8,
+              use_label_encoder=False)",0.5118811881188119
+5,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=2,
+              n_estimators=50, random_state=7, subsample=0.8,
+              use_label_encoder=False)",0.5128712871287128
+6,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=2,
+              n_estimators=50, random_state=19, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+7,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=2,
+              n_estimators=50, random_state=89, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+8,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=2, n_estimators=50,
+              random_state=75, subsample=0.8, use_label_encoder=False)",0.5287128712871288
+9,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=2,
+              n_estimators=50, random_state=97, subsample=0.8,
+              use_label_encoder=False)",0.4990099009900991
+10,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=2,
+              random_state=11, subsample=0.8, use_label_encoder=False)",0.5207920792079207
+11,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=2,
+              random_state=34, subsample=0.8, use_label_encoder=False)",0.5237623762376238
+12,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=2,
+              random_state=72, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+13,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=2, random_state=74,
+              subsample=0.8, use_label_encoder=False)",0.5227722772277229
+14,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=2,
+              random_state=40, subsample=0.8, use_label_encoder=False)",0.497029702970297
+15,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=2,
+              n_estimators=150, random_state=26, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+16,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=2,
+              n_estimators=150, random_state=24, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+17,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=2,
+              n_estimators=150, random_state=63, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+18,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=2, n_estimators=150,
+              random_state=3, subsample=0.8, use_label_encoder=False)",0.510891089108911
+19,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=2,
+              n_estimators=150, random_state=46, subsample=0.8,
+              use_label_encoder=False)",0.5237623762376238
+20,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, n_estimators=25,
+              random_state=57, subsample=0.8, use_label_encoder=False)",0.5178217821782178
+21,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, n_estimators=25,
+              random_state=44, subsample=0.8, use_label_encoder=False)",0.5326732673267326
+22,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, n_estimators=25,
+              random_state=29, subsample=0.8, use_label_encoder=False)",0.5326732673267326
+23,"XGBClassifier(eval_metric='auc', gamma=0.5, n_estimators=25, random_state=57,
+              subsample=0.8, use_label_encoder=False)",0.5297029702970297
+24,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, n_estimators=25,
+              random_state=62, subsample=0.8, use_label_encoder=False)",0.5247524752475247
+25,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, n_estimators=50,
+              random_state=50, subsample=0.8, use_label_encoder=False)",0.5267326732673266
+26,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, n_estimators=50,
+              random_state=98, subsample=0.8, use_label_encoder=False)",0.5297029702970297
+27,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, n_estimators=50,
+              random_state=2, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+28,"XGBClassifier(eval_metric='auc', gamma=0.5, n_estimators=50, random_state=18,
+              subsample=0.8, use_label_encoder=False)",0.5148514851485149
+29,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, n_estimators=50,
+              random_state=3, subsample=0.8, use_label_encoder=False)",0.5297029702970297
+30,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, random_state=51,
+              subsample=0.8, use_label_encoder=False)",0.5336633663366337
+31,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, random_state=59,
+              subsample=0.8, use_label_encoder=False)",0.5287128712871286
+32,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, random_state=75,
+              subsample=0.8, use_label_encoder=False)",0.5346534653465348
+33,"XGBClassifier(eval_metric='auc', gamma=0.5, random_state=25, subsample=0.8,
+              use_label_encoder=False)",0.5039603960396041
+34,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, random_state=40,
+              subsample=0.8, use_label_encoder=False)",0.514851485148515
+35,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01,
+              n_estimators=150, random_state=55, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+36,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02,
+              n_estimators=150, random_state=58, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+37,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05,
+              n_estimators=150, random_state=29, subsample=0.8,
+              use_label_encoder=False)",0.5108910891089109
+38,"XGBClassifier(eval_metric='auc', gamma=0.5, n_estimators=150, random_state=73,
+              subsample=0.8, use_label_encoder=False)",0.5306930693069308
+39,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, n_estimators=150,
+              random_state=32, subsample=0.8, use_label_encoder=False)",0.5227722772277228
+40,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=4,
+              n_estimators=25, random_state=94, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+41,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=4,
+              n_estimators=25, random_state=36, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772276
+42,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=4,
+              n_estimators=25, random_state=72, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+43,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=4, n_estimators=25,
+              random_state=82, subsample=0.8, use_label_encoder=False)",0.5188118811881187
+44,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=4,
+              n_estimators=25, random_state=16, subsample=0.8,
+              use_label_encoder=False)",0.516831683168317
+45,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=4,
+              n_estimators=50, random_state=89, subsample=0.8,
+              use_label_encoder=False)",0.5138613861386139
+46,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=4,
+              n_estimators=50, random_state=13, subsample=0.8,
+              use_label_encoder=False)",0.5326732673267328
+47,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=4,
+              n_estimators=50, random_state=11, subsample=0.8,
+              use_label_encoder=False)",0.5346534653465346
+48,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=4, n_estimators=50,
+              random_state=33, subsample=0.8, use_label_encoder=False)",0.5128712871287128
+49,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=4,
+              n_estimators=50, random_state=71, subsample=0.8,
+              use_label_encoder=False)",0.5059405940594061
+50,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=4,
+              random_state=59, subsample=0.8, use_label_encoder=False)",0.5396039603960395
+51,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=4,
+              random_state=73, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+52,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=4,
+              random_state=54, subsample=0.8, use_label_encoder=False)",0.5207920792079207
+53,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=4, random_state=5,
+              subsample=0.8, use_label_encoder=False)",0.5356435643564358
+54,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=4,
+              random_state=7, subsample=0.8, use_label_encoder=False)",0.5148514851485148
+55,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=4,
+              n_estimators=150, random_state=95, subsample=0.8,
+              use_label_encoder=False)",0.5405940594059405
+56,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=4,
+              n_estimators=150, random_state=2, subsample=0.8,
+              use_label_encoder=False)",0.5237623762376238
+57,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=4,
+              n_estimators=150, random_state=38, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+58,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=4, n_estimators=150,
+              random_state=11, subsample=0.8, use_label_encoder=False)",0.5178217821782178
+59,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=4,
+              n_estimators=150, random_state=79, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980199
+60,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=5,
+              n_estimators=25, random_state=59, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574257
+61,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=5,
+              n_estimators=25, random_state=32, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+62,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=5,
+              n_estimators=25, random_state=72, subsample=0.8,
+              use_label_encoder=False)",0.5
+63,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=5, n_estimators=25,
+              random_state=93, subsample=0.8, use_label_encoder=False)",0.5247524752475249
+64,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=5,
+              n_estimators=25, random_state=52, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+65,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=5,
+              n_estimators=50, random_state=73, subsample=0.8,
+              use_label_encoder=False)",0.516831683168317
+66,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=5,
+              n_estimators=50, random_state=36, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366337
+67,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=5,
+              n_estimators=50, random_state=86, subsample=0.8,
+              use_label_encoder=False)",0.510891089108911
+68,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=5, n_estimators=50,
+              random_state=15, subsample=0.8, use_label_encoder=False)",0.5138613861386139
+69,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=5,
+              n_estimators=50, random_state=27, subsample=0.8,
+              use_label_encoder=False)",0.516831683168317
+70,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=5,
+              random_state=8, subsample=0.8, use_label_encoder=False)",0.5247524752475247
+71,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=5,
+              random_state=45, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+72,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=5,
+              random_state=1, subsample=0.8, use_label_encoder=False)",0.5247524752475248
+73,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=5, random_state=73,
+              subsample=0.8, use_label_encoder=False)",0.5138613861386139
+74,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=5,
+              random_state=85, subsample=0.8, use_label_encoder=False)",0.5247524752475248
+75,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=5,
+              n_estimators=150, random_state=31, subsample=0.8,
+              use_label_encoder=False)",0.5415841584158416
+76,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=5,
+              n_estimators=150, random_state=52, subsample=0.8,
+              use_label_encoder=False)",0.517821782178218
+77,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=5,
+              n_estimators=150, random_state=69, subsample=0.8,
+              use_label_encoder=False)",0.50990099009901
+78,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=5, n_estimators=150,
+              random_state=10, subsample=0.8, use_label_encoder=False)",0.5297029702970297
+79,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=5,
+              n_estimators=150, random_state=86, subsample=0.8,
+              use_label_encoder=False)",0.5118811881188119
+80,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=6,
+              n_estimators=25, random_state=65, subsample=0.8,
+              use_label_encoder=False)",0.5405940594059407
+81,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=6,
+              n_estimators=25, random_state=2, subsample=0.8,
+              use_label_encoder=False)",0.5366336633663366
+82,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=6,
+              n_estimators=25, random_state=11, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+83,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=6, n_estimators=25,
+              random_state=51, subsample=0.8, use_label_encoder=False)",0.512871287128713
+84,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=6,
+              n_estimators=25, random_state=89, subsample=0.8,
+              use_label_encoder=False)",0.5346534653465348
+85,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=6,
+              n_estimators=50, random_state=67, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673269
+86,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=6,
+              n_estimators=50, random_state=2, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366337
+87,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=6,
+              n_estimators=50, random_state=91, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+88,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=6, n_estimators=50,
+              random_state=35, subsample=0.8, use_label_encoder=False)",0.5188118811881188
+89,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=6,
+              n_estimators=50, random_state=33, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881188
+90,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=6,
+              random_state=34, subsample=0.8, use_label_encoder=False)",0.5376237623762377
+91,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=6,
+              random_state=94, subsample=0.8, use_label_encoder=False)",0.517821782178218
+92,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=6,
+              random_state=6, subsample=0.8, use_label_encoder=False)",0.5257425742574258
+93,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=6, random_state=54,
+              subsample=0.8, use_label_encoder=False)",0.5306930693069307
+94,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=6,
+              random_state=90, subsample=0.8, use_label_encoder=False)",0.5188118811881189
+95,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.01, max_depth=6,
+              n_estimators=150, random_state=18, subsample=0.8,
+              use_label_encoder=False)",0.5366336633663368
+96,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.02, max_depth=6,
+              n_estimators=150, random_state=5, subsample=0.8,
+              use_label_encoder=False)",0.5346534653465348
+97,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.05, max_depth=6,
+              n_estimators=150, random_state=30, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871288
+98,"XGBClassifier(eval_metric='auc', gamma=0.5, max_depth=6, n_estimators=150,
+              random_state=71, subsample=0.8, use_label_encoder=False)",0.5257425742574258
+99,"XGBClassifier(eval_metric='auc', gamma=0.5, learning_rate=0.2, max_depth=6,
+              n_estimators=150, random_state=8, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970298
+100,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=2,
+              n_estimators=25, random_state=93, subsample=0.8,
+              use_label_encoder=False)",0.5148514851485148
+101,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=2,
+              n_estimators=25, random_state=49, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+102,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=2,
+              n_estimators=25, random_state=67, subsample=0.8,
+              use_label_encoder=False)",0.5425742574257425
+103,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=2, n_estimators=25,
+              random_state=77, subsample=0.8, use_label_encoder=False)",0.5297029702970297
+104,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=2,
+              n_estimators=25, random_state=70, subsample=0.8,
+              use_label_encoder=False)",0.5138613861386139
+105,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=2,
+              n_estimators=50, random_state=78, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+106,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=2,
+              n_estimators=50, random_state=36, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881187
+107,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=2,
+              n_estimators=50, random_state=47, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+108,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=2, n_estimators=50,
+              random_state=46, subsample=0.8, use_label_encoder=False)",0.5425742574257425
+109,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=2,
+              n_estimators=50, random_state=24, subsample=0.8,
+              use_label_encoder=False)",0.508910891089109
+110,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=2,
+              random_state=19, subsample=0.8, use_label_encoder=False)",0.5366336633663368
+111,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=2,
+              random_state=80, subsample=0.8, use_label_encoder=False)",0.5297029702970297
+112,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=2,
+              random_state=66, subsample=0.8, use_label_encoder=False)",0.5435643564356436
+113,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=2, random_state=4,
+              subsample=0.8, use_label_encoder=False)",0.5306930693069308
+114,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=2,
+              random_state=27, subsample=0.8, use_label_encoder=False)",0.508910891089109
+115,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=2,
+              n_estimators=150, random_state=34, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+116,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=2,
+              n_estimators=150, random_state=3, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+117,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=2,
+              n_estimators=150, random_state=78, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+118,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=2, n_estimators=150,
+              random_state=50, subsample=0.8, use_label_encoder=False)",0.5207920792079207
+119,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=2,
+              n_estimators=150, random_state=76, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+120,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, n_estimators=25,
+              random_state=96, subsample=0.8, use_label_encoder=False)",0.5168316831683167
+121,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, n_estimators=25,
+              random_state=80, subsample=0.8, use_label_encoder=False)",0.5326732673267326
+122,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, n_estimators=25,
+              random_state=15, subsample=0.8, use_label_encoder=False)",0.5366336633663366
+123,"XGBClassifier(eval_metric='auc', gamma=1, n_estimators=25, random_state=98,
+              subsample=0.8, use_label_encoder=False)",0.5118811881188119
+124,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, n_estimators=25,
+              random_state=100, subsample=0.8, use_label_encoder=False)",0.501980198019802
+125,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, n_estimators=50,
+              random_state=26, subsample=0.8, use_label_encoder=False)",0.5257425742574258
+126,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, n_estimators=50,
+              random_state=91, subsample=0.8, use_label_encoder=False)",0.5356435643564357
+127,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, n_estimators=50,
+              random_state=60, subsample=0.8, use_label_encoder=False)",0.5376237623762377
+128,"XGBClassifier(eval_metric='auc', gamma=1, n_estimators=50, random_state=51,
+              subsample=0.8, use_label_encoder=False)",0.5148514851485149
+129,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, n_estimators=50,
+              random_state=97, subsample=0.8, use_label_encoder=False)",0.5009900990099011
+130,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, random_state=24,
+              subsample=0.8, use_label_encoder=False)",0.5366336633663366
+131,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, random_state=26,
+              subsample=0.8, use_label_encoder=False)",0.5346534653465346
+132,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, random_state=49,
+              subsample=0.8, use_label_encoder=False)",0.5277227722772277
+133,"XGBClassifier(eval_metric='auc', gamma=1, random_state=17, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881189
+134,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, random_state=5,
+              subsample=0.8, use_label_encoder=False)",0.510891089108911
+135,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, n_estimators=150,
+              random_state=56, subsample=0.8, use_label_encoder=False)",0.5425742574257425
+136,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, n_estimators=150,
+              random_state=50, subsample=0.8, use_label_encoder=False)",0.5287128712871286
+137,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, n_estimators=150,
+              random_state=83, subsample=0.8, use_label_encoder=False)",0.5059405940594061
+138,"XGBClassifier(eval_metric='auc', gamma=1, n_estimators=150, random_state=76,
+              subsample=0.8, use_label_encoder=False)",0.5198019801980199
+139,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, n_estimators=150,
+              random_state=16, subsample=0.8, use_label_encoder=False)",0.5000000000000001
+140,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=4,
+              n_estimators=25, random_state=18, subsample=0.8,
+              use_label_encoder=False)",0.5356435643564356
+141,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=4,
+              n_estimators=25, random_state=80, subsample=0.8,
+              use_label_encoder=False)",0.5386138613861385
+142,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=4,
+              n_estimators=25, random_state=91, subsample=0.8,
+              use_label_encoder=False)",0.5465346534653465
+143,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=4, n_estimators=25,
+              random_state=42, subsample=0.8, use_label_encoder=False)",0.5386138613861385
+144,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=4,
+              n_estimators=25, random_state=62, subsample=0.8,
+              use_label_encoder=False)",0.5237623762376238
+145,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=4,
+              n_estimators=50, random_state=54, subsample=0.8,
+              use_label_encoder=False)",0.5306930693069306
+146,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=4,
+              n_estimators=50, random_state=85, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366336
+147,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=4,
+              n_estimators=50, random_state=83, subsample=0.8,
+              use_label_encoder=False)",0.4990099009900991
+148,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=4, n_estimators=50,
+              random_state=6, subsample=0.8, use_label_encoder=False)",0.5168316831683167
+149,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=4,
+              n_estimators=50, random_state=66, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881187
+150,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=4,
+              random_state=59, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+151,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=4,
+              random_state=63, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+152,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=4,
+              random_state=56, subsample=0.8, use_label_encoder=False)",0.5207920792079209
+153,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=4, random_state=47,
+              subsample=0.8, use_label_encoder=False)",0.512871287128713
+154,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=4,
+              random_state=37, subsample=0.8, use_label_encoder=False)",0.5277227722772279
+155,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=4,
+              n_estimators=150, random_state=57, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+156,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=4,
+              n_estimators=150, random_state=9, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+157,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=4,
+              n_estimators=150, random_state=80, subsample=0.8,
+              use_label_encoder=False)",0.5227722772277229
+158,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=4, n_estimators=150,
+              random_state=69, subsample=0.8, use_label_encoder=False)",0.5198019801980199
+159,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=4,
+              n_estimators=150, random_state=22, subsample=0.8,
+              use_label_encoder=False)",0.5118811881188119
+160,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=5,
+              n_estimators=25, random_state=37, subsample=0.8,
+              use_label_encoder=False)",0.5227722772277229
+161,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=5,
+              n_estimators=25, random_state=72, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+162,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=5,
+              n_estimators=25, random_state=87, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+163,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=5, n_estimators=25,
+              random_state=33, subsample=0.8, use_label_encoder=False)",0.5118811881188119
+164,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=5,
+              n_estimators=25, random_state=50, subsample=0.8,
+              use_label_encoder=False)",0.5079207920792079
+165,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=5,
+              n_estimators=50, random_state=56, subsample=0.8,
+              use_label_encoder=False)",0.5158415841584159
+166,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=5,
+              n_estimators=50, random_state=40, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+167,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=5,
+              n_estimators=50, random_state=33, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475249
+168,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=5, n_estimators=50,
+              random_state=73, subsample=0.8, use_label_encoder=False)",0.5207920792079209
+169,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=5,
+              n_estimators=50, random_state=48, subsample=0.8,
+              use_label_encoder=False)",0.514851485148515
+170,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=5,
+              random_state=44, subsample=0.8, use_label_encoder=False)",0.5346534653465348
+171,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=5,
+              random_state=45, subsample=0.8, use_label_encoder=False)",0.5267326732673266
+172,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=5,
+              random_state=45, subsample=0.8, use_label_encoder=False)",0.5217821782178218
+173,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=5, random_state=83,
+              subsample=0.8, use_label_encoder=False)",0.5227722772277229
+174,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=5,
+              random_state=93, subsample=0.8, use_label_encoder=False)",0.5287128712871287
+175,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=5,
+              n_estimators=150, random_state=52, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+176,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=5,
+              n_estimators=150, random_state=60, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079209
+177,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=5,
+              n_estimators=150, random_state=20, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475248
+178,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=5, n_estimators=150,
+              random_state=32, subsample=0.8, use_label_encoder=False)",0.5247524752475248
+179,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=5,
+              n_estimators=150, random_state=51, subsample=0.8,
+              use_label_encoder=False)",0.510891089108911
+180,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=6,
+              n_estimators=25, random_state=4, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881187
+181,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=6,
+              n_estimators=25, random_state=65, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+182,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=6,
+              n_estimators=25, random_state=24, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+183,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=6, n_estimators=25,
+              random_state=73, subsample=0.8, use_label_encoder=False)",0.5405940594059406
+184,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=6,
+              n_estimators=25, random_state=99, subsample=0.8,
+              use_label_encoder=False)",0.514851485148515
+185,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=6,
+              n_estimators=50, random_state=84, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881187
+186,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=6,
+              n_estimators=50, random_state=90, subsample=0.8,
+              use_label_encoder=False)",0.5356435643564357
+187,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=6,
+              n_estimators=50, random_state=52, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168318
+188,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=6, n_estimators=50,
+              random_state=18, subsample=0.8, use_label_encoder=False)",0.5267326732673266
+189,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=6,
+              n_estimators=50, random_state=20, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871287
+190,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=6,
+              random_state=78, subsample=0.8, use_label_encoder=False)",0.5198019801980198
+191,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=6,
+              random_state=94, subsample=0.8, use_label_encoder=False)",0.5207920792079208
+192,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=6,
+              random_state=81, subsample=0.8, use_label_encoder=False)",0.508910891089109
+193,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=6, random_state=3,
+              subsample=0.8, use_label_encoder=False)",0.5287128712871288
+194,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=6,
+              random_state=89, subsample=0.8, use_label_encoder=False)",0.503960396039604
+195,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.01, max_depth=6,
+              n_estimators=150, random_state=65, subsample=0.8,
+              use_label_encoder=False)",0.5326732673267328
+196,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.02, max_depth=6,
+              n_estimators=150, random_state=22, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+197,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.05, max_depth=6,
+              n_estimators=150, random_state=94, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079209
+198,"XGBClassifier(eval_metric='auc', gamma=1, max_depth=6, n_estimators=150,
+              random_state=13, subsample=0.8, use_label_encoder=False)",0.5346534653465348
+199,"XGBClassifier(eval_metric='auc', gamma=1, learning_rate=0.2, max_depth=6,
+              n_estimators=150, random_state=58, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871288
+200,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=2,
+              n_estimators=25, random_state=26, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+201,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=2,
+              n_estimators=25, random_state=13, subsample=0.8,
+              use_label_encoder=False)",0.5227722772277227
+202,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=2,
+              n_estimators=25, random_state=14, subsample=0.8,
+              use_label_encoder=False)",0.5128712871287128
+203,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=2, n_estimators=25,
+              random_state=4, subsample=0.8, use_label_encoder=False)",0.5188118811881187
+204,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=2,
+              n_estimators=25, random_state=49, subsample=0.8,
+              use_label_encoder=False)",0.514851485148515
+205,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=2,
+              n_estimators=50, random_state=31, subsample=0.8,
+              use_label_encoder=False)",0.5168316831683167
+206,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=2,
+              n_estimators=50, random_state=58, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+207,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=2,
+              n_estimators=50, random_state=23, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+208,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=2, n_estimators=50,
+              random_state=75, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+209,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=2,
+              n_estimators=50, random_state=20, subsample=0.8,
+              use_label_encoder=False)",0.5059405940594061
+210,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=2,
+              random_state=27, subsample=0.8, use_label_encoder=False)",0.5227722772277227
+211,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=2,
+              random_state=66, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+212,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=2,
+              random_state=48, subsample=0.8, use_label_encoder=False)",0.5217821782178219
+213,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=2, random_state=75,
+              subsample=0.8, use_label_encoder=False)",0.5257425742574258
+214,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=2,
+              random_state=29, subsample=0.8, use_label_encoder=False)",0.506930693069307
+215,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=2,
+              n_estimators=150, random_state=69, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+216,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=2,
+              n_estimators=150, random_state=44, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673269
+217,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=2,
+              n_estimators=150, random_state=74, subsample=0.8,
+              use_label_encoder=False)",0.5168316831683167
+218,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=2, n_estimators=150,
+              random_state=82, subsample=0.8, use_label_encoder=False)",0.5
+219,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=2,
+              n_estimators=150, random_state=56, subsample=0.8,
+              use_label_encoder=False)",0.512871287128713
+220,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, n_estimators=25,
+              random_state=83, subsample=0.8, use_label_encoder=False)",0.5118811881188119
+221,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, n_estimators=25,
+              random_state=95, subsample=0.8, use_label_encoder=False)",0.5247524752475247
+222,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, n_estimators=25,
+              random_state=28, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+223,"XGBClassifier(eval_metric='auc', gamma=1.5, n_estimators=25, random_state=53,
+              subsample=0.8, use_label_encoder=False)",0.5267326732673268
+224,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, n_estimators=25,
+              random_state=40, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+225,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, n_estimators=50,
+              random_state=27, subsample=0.8, use_label_encoder=False)",0.5168316831683167
+226,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, n_estimators=50,
+              random_state=86, subsample=0.8, use_label_encoder=False)",0.5386138613861385
+227,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, n_estimators=50,
+              random_state=39, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+228,"XGBClassifier(eval_metric='auc', gamma=1.5, n_estimators=50, random_state=77,
+              subsample=0.8, use_label_encoder=False)",0.5188118811881187
+229,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, n_estimators=50,
+              random_state=42, subsample=0.8, use_label_encoder=False)",0.512871287128713
+230,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, random_state=69,
+              subsample=0.8, use_label_encoder=False)",0.5415841584158416
+231,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, random_state=13,
+              subsample=0.8, use_label_encoder=False)",0.5326732673267326
+232,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, random_state=8,
+              subsample=0.8, use_label_encoder=False)",0.5198019801980198
+233,"XGBClassifier(eval_metric='auc', gamma=1.5, random_state=83, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881188
+234,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, random_state=79,
+              subsample=0.8, use_label_encoder=False)",0.5168316831683168
+235,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01,
+              n_estimators=150, random_state=59, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871286
+236,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02,
+              n_estimators=150, random_state=24, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+237,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05,
+              n_estimators=150, random_state=51, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+238,"XGBClassifier(eval_metric='auc', gamma=1.5, n_estimators=150, random_state=31,
+              subsample=0.8, use_label_encoder=False)",0.5247524752475249
+239,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, n_estimators=150,
+              random_state=25, subsample=0.8, use_label_encoder=False)",0.5158415841584159
+240,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=4,
+              n_estimators=25, random_state=26, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+241,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=4,
+              n_estimators=25, random_state=98, subsample=0.8,
+              use_label_encoder=False)",0.5227722772277227
+242,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=4,
+              n_estimators=25, random_state=80, subsample=0.8,
+              use_label_encoder=False)",0.5386138613861385
+243,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=4, n_estimators=25,
+              random_state=86, subsample=0.8, use_label_encoder=False)",0.5237623762376238
+244,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=4,
+              n_estimators=25, random_state=1, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673269
+245,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=4,
+              n_estimators=50, random_state=8, subsample=0.8,
+              use_label_encoder=False)",0.5396039603960396
+246,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=4,
+              n_estimators=50, random_state=78, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+247,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=4,
+              n_estimators=50, random_state=60, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871286
+248,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=4, n_estimators=50,
+              random_state=58, subsample=0.8, use_label_encoder=False)",0.5405940594059407
+249,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=4,
+              n_estimators=50, random_state=58, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871288
+250,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=4,
+              random_state=28, subsample=0.8, use_label_encoder=False)",0.5445544554455445
+251,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=4,
+              random_state=51, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+252,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=4,
+              random_state=81, subsample=0.8, use_label_encoder=False)",0.5158415841584159
+253,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=4, random_state=56,
+              subsample=0.8, use_label_encoder=False)",0.497029702970297
+254,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=4,
+              random_state=31, subsample=0.8, use_label_encoder=False)",0.5247524752475249
+255,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=4,
+              n_estimators=150, random_state=70, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871286
+256,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=4,
+              n_estimators=150, random_state=62, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079207
+257,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=4,
+              n_estimators=150, random_state=6, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+258,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=4, n_estimators=150,
+              random_state=63, subsample=0.8, use_label_encoder=False)",0.5237623762376239
+259,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=4,
+              n_estimators=150, random_state=40, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+260,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=5,
+              n_estimators=25, random_state=37, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+261,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=5,
+              n_estimators=25, random_state=87, subsample=0.8,
+              use_label_encoder=False)",0.501980198019802
+262,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=5,
+              n_estimators=25, random_state=86, subsample=0.8,
+              use_label_encoder=False)",0.508910891089109
+263,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=5, n_estimators=25,
+              random_state=42, subsample=0.8, use_label_encoder=False)",0.5198019801980199
+264,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=5,
+              n_estimators=25, random_state=31, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+265,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=5,
+              n_estimators=50, random_state=49, subsample=0.8,
+              use_label_encoder=False)",0.5306930693069308
+266,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=5,
+              n_estimators=50, random_state=86, subsample=0.8,
+              use_label_encoder=False)",0.5485148514851487
+267,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=5,
+              n_estimators=50, random_state=99, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+268,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=5, n_estimators=50,
+              random_state=14, subsample=0.8, use_label_encoder=False)",0.5287128712871287
+269,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=5,
+              n_estimators=50, random_state=25, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079209
+270,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=5,
+              random_state=98, subsample=0.8, use_label_encoder=False)",0.5148514851485148
+271,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=5,
+              random_state=7, subsample=0.8, use_label_encoder=False)",0.5306930693069308
+272,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=5,
+              random_state=77, subsample=0.8, use_label_encoder=False)",0.5049504950495051
+273,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=5, random_state=66,
+              subsample=0.8, use_label_encoder=False)",0.5247524752475249
+274,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=5,
+              random_state=21, subsample=0.8, use_label_encoder=False)",0.514851485148515
+275,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=5,
+              n_estimators=150, random_state=72, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+276,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=5,
+              n_estimators=150, random_state=37, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871288
+277,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=5,
+              n_estimators=150, random_state=35, subsample=0.8,
+              use_label_encoder=False)",0.5099009900990099
+278,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=5, n_estimators=150,
+              random_state=17, subsample=0.8, use_label_encoder=False)",0.5227722772277229
+279,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=5,
+              n_estimators=150, random_state=78, subsample=0.8,
+              use_label_encoder=False)",0.510891089108911
+280,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=6,
+              n_estimators=25, random_state=26, subsample=0.8,
+              use_label_encoder=False)",0.5495049504950495
+281,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=6,
+              n_estimators=25, random_state=37, subsample=0.8,
+              use_label_encoder=False)",0.5346534653465346
+282,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=6,
+              n_estimators=25, random_state=43, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+283,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=6, n_estimators=25,
+              random_state=43, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+284,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=6,
+              n_estimators=25, random_state=6, subsample=0.8,
+              use_label_encoder=False)",0.4990099009900991
+285,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=6,
+              n_estimators=50, random_state=46, subsample=0.8,
+              use_label_encoder=False)",0.5366336633663366
+286,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=6,
+              n_estimators=50, random_state=19, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+287,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=6,
+              n_estimators=50, random_state=94, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475249
+288,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=6, n_estimators=50,
+              random_state=71, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+289,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=6,
+              n_estimators=50, random_state=93, subsample=0.8,
+              use_label_encoder=False)",0.5237623762376238
+290,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=6,
+              random_state=65, subsample=0.8, use_label_encoder=False)",0.5455445544554456
+291,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=6,
+              random_state=74, subsample=0.8, use_label_encoder=False)",0.5346534653465348
+292,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=6,
+              random_state=47, subsample=0.8, use_label_encoder=False)",0.5198019801980198
+293,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=6, random_state=32,
+              subsample=0.8, use_label_encoder=False)",0.5079207920792079
+294,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=6,
+              random_state=65, subsample=0.8, use_label_encoder=False)",0.5415841584158416
+295,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.01, max_depth=6,
+              n_estimators=150, random_state=10, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+296,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.02, max_depth=6,
+              n_estimators=150, random_state=33, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079208
+297,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.05, max_depth=6,
+              n_estimators=150, random_state=46, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980199
+298,"XGBClassifier(eval_metric='auc', gamma=1.5, max_depth=6, n_estimators=150,
+              random_state=60, subsample=0.8, use_label_encoder=False)",0.517821782178218
+299,"XGBClassifier(eval_metric='auc', gamma=1.5, learning_rate=0.2, max_depth=6,
+              n_estimators=150, random_state=88, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871288
+300,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=2,
+              n_estimators=25, random_state=35, subsample=0.8,
+              use_label_encoder=False)",0.5118811881188119
+301,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=2,
+              n_estimators=25, random_state=55, subsample=0.8,
+              use_label_encoder=False)",0.5168316831683167
+302,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=2,
+              n_estimators=25, random_state=66, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+303,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=2, n_estimators=25,
+              random_state=26, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+304,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=2,
+              n_estimators=25, random_state=26, subsample=0.8,
+              use_label_encoder=False)",0.5415841584158416
+305,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=2,
+              n_estimators=50, random_state=39, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+306,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=2,
+              n_estimators=50, random_state=44, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+307,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=2,
+              n_estimators=50, random_state=6, subsample=0.8,
+              use_label_encoder=False)",0.5386138613861385
+308,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=2, n_estimators=50,
+              random_state=9, subsample=0.8, use_label_encoder=False)",0.506930693069307
+309,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=2,
+              n_estimators=50, random_state=83, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+310,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=2,
+              random_state=36, subsample=0.8, use_label_encoder=False)",0.5217821782178218
+311,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=2,
+              random_state=57, subsample=0.8, use_label_encoder=False)",0.5336633663366337
+312,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=2,
+              random_state=28, subsample=0.8, use_label_encoder=False)",0.5237623762376238
+313,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=2, random_state=38,
+              subsample=0.8, use_label_encoder=False)",0.514851485148515
+314,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=2,
+              random_state=72, subsample=0.8, use_label_encoder=False)",0.515841584158416
+315,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=2,
+              n_estimators=150, random_state=62, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+316,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=2,
+              n_estimators=150, random_state=44, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+317,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=2,
+              n_estimators=150, random_state=51, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881187
+318,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=2, n_estimators=150,
+              random_state=17, subsample=0.8, use_label_encoder=False)",0.505940594059406
+319,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=2,
+              n_estimators=150, random_state=48, subsample=0.8,
+              use_label_encoder=False)",0.5000000000000001
+320,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, n_estimators=25,
+              random_state=44, subsample=0.8, use_label_encoder=False)",0.5316831683168317
+321,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, n_estimators=25,
+              random_state=21, subsample=0.8, use_label_encoder=False)",0.5158415841584159
+322,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, n_estimators=25,
+              random_state=72, subsample=0.8, use_label_encoder=False)",0.5297029702970297
+323,"XGBClassifier(eval_metric='auc', gamma=2, n_estimators=25, random_state=69,
+              subsample=0.8, use_label_encoder=False)",0.5306930693069306
+324,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, n_estimators=25,
+              random_state=77, subsample=0.8, use_label_encoder=False)",0.5118811881188119
+325,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, n_estimators=50,
+              random_state=84, subsample=0.8, use_label_encoder=False)",0.5287128712871286
+326,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, n_estimators=50,
+              random_state=83, subsample=0.8, use_label_encoder=False)",0.5168316831683167
+327,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, n_estimators=50,
+              random_state=8, subsample=0.8, use_label_encoder=False)",0.5178217821782178
+328,"XGBClassifier(eval_metric='auc', gamma=2, n_estimators=50, random_state=93,
+              subsample=0.8, use_label_encoder=False)",0.5237623762376239
+329,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, n_estimators=50,
+              random_state=58, subsample=0.8, use_label_encoder=False)",0.5237623762376239
+330,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, random_state=99,
+              subsample=0.8, use_label_encoder=False)",0.5316831683168317
+331,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, random_state=7,
+              subsample=0.8, use_label_encoder=False)",0.5326732673267326
+332,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, random_state=36,
+              subsample=0.8, use_label_encoder=False)",0.5188118811881187
+333,"XGBClassifier(eval_metric='auc', gamma=2, random_state=40, subsample=0.8,
+              use_label_encoder=False)",0.5049504950495051
+334,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, random_state=79,
+              subsample=0.8, use_label_encoder=False)",0.5237623762376238
+335,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, n_estimators=150,
+              random_state=1, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+336,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, n_estimators=150,
+              random_state=17, subsample=0.8, use_label_encoder=False)",0.5336633663366337
+337,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, n_estimators=150,
+              random_state=9, subsample=0.8, use_label_encoder=False)",0.5257425742574258
+338,"XGBClassifier(eval_metric='auc', gamma=2, n_estimators=150, random_state=34,
+              subsample=0.8, use_label_encoder=False)",0.5089108910891088
+339,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, n_estimators=150,
+              random_state=93, subsample=0.8, use_label_encoder=False)",0.5207920792079209
+340,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=4,
+              n_estimators=25, random_state=33, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+341,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=4,
+              n_estimators=25, random_state=27, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+342,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=4,
+              n_estimators=25, random_state=80, subsample=0.8,
+              use_label_encoder=False)",0.5554455445544555
+343,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=4, n_estimators=25,
+              random_state=74, subsample=0.8, use_label_encoder=False)",0.5178217821782178
+344,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=4,
+              n_estimators=25, random_state=53, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079209
+345,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=4,
+              n_estimators=50, random_state=60, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881187
+346,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=4,
+              n_estimators=50, random_state=74, subsample=0.8,
+              use_label_encoder=False)",0.516831683168317
+347,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=4,
+              n_estimators=50, random_state=40, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+348,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=4, n_estimators=50,
+              random_state=74, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+349,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=4,
+              n_estimators=50, random_state=58, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881188
+350,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=4,
+              random_state=99, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+351,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=4,
+              random_state=45, subsample=0.8, use_label_encoder=False)",0.5396039603960396
+352,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=4,
+              random_state=92, subsample=0.8, use_label_encoder=False)",0.514851485148515
+353,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=4, random_state=34,
+              subsample=0.8, use_label_encoder=False)",0.5168316831683167
+354,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=4,
+              random_state=51, subsample=0.8, use_label_encoder=False)",0.5277227722772277
+355,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=4,
+              n_estimators=150, random_state=64, subsample=0.8,
+              use_label_encoder=False)",0.5405940594059405
+356,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=4,
+              n_estimators=150, random_state=13, subsample=0.8,
+              use_label_encoder=False)",0.5287128712871286
+357,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=4,
+              n_estimators=150, random_state=70, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+358,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=4, n_estimators=150,
+              random_state=64, subsample=0.8, use_label_encoder=False)",0.510891089108911
+359,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=4,
+              n_estimators=150, random_state=67, subsample=0.8,
+              use_label_encoder=False)",0.516831683168317
+360,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=5,
+              n_estimators=25, random_state=63, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+361,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=5,
+              n_estimators=25, random_state=69, subsample=0.8,
+              use_label_encoder=False)",0.5396039603960396
+362,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=5,
+              n_estimators=25, random_state=20, subsample=0.8,
+              use_label_encoder=False)",0.5386138613861385
+363,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=5, n_estimators=25,
+              random_state=73, subsample=0.8, use_label_encoder=False)",0.5227722772277228
+364,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=5,
+              n_estimators=25, random_state=73, subsample=0.8,
+              use_label_encoder=False)",0.5158415841584159
+365,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=5,
+              n_estimators=50, random_state=82, subsample=0.8,
+              use_label_encoder=False)",0.5435643564356436
+366,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=5,
+              n_estimators=50, random_state=11, subsample=0.8,
+              use_label_encoder=False)",0.5237623762376238
+367,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=5,
+              n_estimators=50, random_state=75, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079209
+368,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=5, n_estimators=50,
+              random_state=52, subsample=0.8, use_label_encoder=False)",0.511881188118812
+369,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=5,
+              n_estimators=50, random_state=62, subsample=0.8,
+              use_label_encoder=False)",0.50990099009901
+370,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=5,
+              random_state=99, subsample=0.8, use_label_encoder=False)",0.5287128712871286
+371,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=5,
+              random_state=19, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+372,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=5,
+              random_state=61, subsample=0.8, use_label_encoder=False)",0.5227722772277229
+373,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=5, random_state=83,
+              subsample=0.8, use_label_encoder=False)",0.5178217821782178
+374,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=5,
+              random_state=79, subsample=0.8, use_label_encoder=False)",0.5198019801980198
+375,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=5,
+              n_estimators=150, random_state=68, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366337
+376,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=5,
+              n_estimators=150, random_state=75, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+377,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=5,
+              n_estimators=150, random_state=83, subsample=0.8,
+              use_label_encoder=False)",0.5059405940594061
+378,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=5, n_estimators=150,
+              random_state=1, subsample=0.8, use_label_encoder=False)",0.5118811881188119
+379,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=5,
+              n_estimators=150, random_state=68, subsample=0.8,
+              use_label_encoder=False)",0.5118811881188119
+380,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=6,
+              n_estimators=25, random_state=2, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+381,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=6,
+              n_estimators=25, random_state=88, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+382,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=6,
+              n_estimators=25, random_state=43, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+383,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=6, n_estimators=25,
+              random_state=4, subsample=0.8, use_label_encoder=False)",0.5336633663366337
+384,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=6,
+              n_estimators=25, random_state=67, subsample=0.8,
+              use_label_encoder=False)",0.5009900990099011
+385,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=6,
+              n_estimators=50, random_state=46, subsample=0.8,
+              use_label_encoder=False)",0.5405940594059407
+386,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=6,
+              n_estimators=50, random_state=29, subsample=0.8,
+              use_label_encoder=False)",0.5415841584158416
+387,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=6,
+              n_estimators=50, random_state=67, subsample=0.8,
+              use_label_encoder=False)",0.5277227722772277
+388,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=6, n_estimators=50,
+              random_state=97, subsample=0.8, use_label_encoder=False)",0.5247524752475248
+389,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=6,
+              n_estimators=50, random_state=83, subsample=0.8,
+              use_label_encoder=False)",0.5207920792079209
+390,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=6,
+              random_state=45, subsample=0.8, use_label_encoder=False)",0.5415841584158416
+391,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=6,
+              random_state=3, subsample=0.8, use_label_encoder=False)",0.5237623762376238
+392,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=6,
+              random_state=49, subsample=0.8, use_label_encoder=False)",0.5079207920792079
+393,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=6, random_state=83,
+              subsample=0.8, use_label_encoder=False)",0.5079207920792079
+394,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=6,
+              random_state=58, subsample=0.8, use_label_encoder=False)",0.510891089108911
+395,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.01, max_depth=6,
+              n_estimators=150, random_state=30, subsample=0.8,
+              use_label_encoder=False)",0.5326732673267326
+396,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.02, max_depth=6,
+              n_estimators=150, random_state=36, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+397,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.05, max_depth=6,
+              n_estimators=150, random_state=95, subsample=0.8,
+              use_label_encoder=False)",0.5188118811881188
+398,"XGBClassifier(eval_metric='auc', gamma=2, max_depth=6, n_estimators=150,
+              random_state=45, subsample=0.8, use_label_encoder=False)",0.5435643564356436
+399,"XGBClassifier(eval_metric='auc', gamma=2, learning_rate=0.2, max_depth=6,
+              n_estimators=150, random_state=14, subsample=0.8,
+              use_label_encoder=False)",0.5138613861386139
+400,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=2,
+              n_estimators=25, random_state=1, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+401,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=2,
+              n_estimators=25, random_state=56, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+402,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=2,
+              n_estimators=25, random_state=22, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+403,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=2, n_estimators=25,
+              random_state=53, subsample=0.8, use_label_encoder=False)",0.5227722772277227
+404,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=2,
+              n_estimators=25, random_state=32, subsample=0.8,
+              use_label_encoder=False)",0.5158415841584159
+405,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=2,
+              n_estimators=50, random_state=11, subsample=0.8,
+              use_label_encoder=False)",0.5326732673267326
+406,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=2,
+              n_estimators=50, random_state=20, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178218
+407,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=2,
+              n_estimators=50, random_state=72, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+408,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=2, n_estimators=50,
+              random_state=88, subsample=0.8, use_label_encoder=False)",0.5247524752475248
+409,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=2,
+              n_estimators=50, random_state=96, subsample=0.8,
+              use_label_encoder=False)",0.497029702970297
+410,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=2,
+              random_state=49, subsample=0.8, use_label_encoder=False)",0.5217821782178218
+411,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=2,
+              random_state=66, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+412,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=2,
+              random_state=22, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+413,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=2, random_state=60,
+              subsample=0.8, use_label_encoder=False)",0.514851485148515
+414,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=2,
+              random_state=37, subsample=0.8, use_label_encoder=False)",0.5188118811881189
+415,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=2,
+              n_estimators=150, random_state=73, subsample=0.8,
+              use_label_encoder=False)",0.5227722772277227
+416,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=2,
+              n_estimators=150, random_state=63, subsample=0.8,
+              use_label_encoder=False)",0.5257425742574258
+417,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=2,
+              n_estimators=150, random_state=32, subsample=0.8,
+              use_label_encoder=False)",0.510891089108911
+418,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=2, n_estimators=150,
+              random_state=76, subsample=0.8, use_label_encoder=False)",0.5198019801980198
+419,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=2,
+              n_estimators=150, random_state=69, subsample=0.8,
+              use_label_encoder=False)",0.5158415841584159
+420,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, n_estimators=25,
+              random_state=88, subsample=0.8, use_label_encoder=False)",0.5287128712871286
+421,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, n_estimators=25,
+              random_state=68, subsample=0.8, use_label_encoder=False)",0.5237623762376238
+422,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, n_estimators=25,
+              random_state=2, subsample=0.8, use_label_encoder=False)",0.5247524752475247
+423,"XGBClassifier(eval_metric='auc', gamma=5, n_estimators=25, random_state=75,
+              subsample=0.8, use_label_encoder=False)",0.5158415841584159
+424,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, n_estimators=25,
+              random_state=20, subsample=0.8, use_label_encoder=False)",0.5118811881188119
+425,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, n_estimators=50,
+              random_state=51, subsample=0.8, use_label_encoder=False)",0.5168316831683167
+426,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, n_estimators=50,
+              random_state=71, subsample=0.8, use_label_encoder=False)",0.5316831683168317
+427,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, n_estimators=50,
+              random_state=81, subsample=0.8, use_label_encoder=False)",0.5346534653465346
+428,"XGBClassifier(eval_metric='auc', gamma=5, n_estimators=50, random_state=70,
+              subsample=0.8, use_label_encoder=False)",0.5356435643564357
+429,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, n_estimators=50,
+              random_state=84, subsample=0.8, use_label_encoder=False)",0.4990099009900991
+430,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, random_state=59,
+              subsample=0.8, use_label_encoder=False)",0.5336633663366337
+431,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, random_state=33,
+              subsample=0.8, use_label_encoder=False)",0.5277227722772277
+432,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, random_state=58,
+              subsample=0.8, use_label_encoder=False)",0.5207920792079209
+433,"XGBClassifier(eval_metric='auc', gamma=5, random_state=32, subsample=0.8,
+              use_label_encoder=False)",0.513861386138614
+434,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, random_state=77,
+              subsample=0.8, use_label_encoder=False)",0.5158415841584159
+435,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, n_estimators=150,
+              random_state=23, subsample=0.8, use_label_encoder=False)",0.5306930693069306
+436,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, n_estimators=150,
+              random_state=8, subsample=0.8, use_label_encoder=False)",0.5326732673267326
+437,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, n_estimators=150,
+              random_state=23, subsample=0.8, use_label_encoder=False)",0.5158415841584159
+438,"XGBClassifier(eval_metric='auc', gamma=5, n_estimators=150, random_state=29,
+              subsample=0.8, use_label_encoder=False)",0.5188118811881187
+439,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, n_estimators=150,
+              random_state=27, subsample=0.8, use_label_encoder=False)",0.503960396039604
+440,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=4,
+              n_estimators=25, random_state=59, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980197
+441,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=4,
+              n_estimators=25, random_state=98, subsample=0.8,
+              use_label_encoder=False)",0.5445544554455445
+442,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=4,
+              n_estimators=25, random_state=82, subsample=0.8,
+              use_label_encoder=False)",0.5306930693069306
+443,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=4, n_estimators=25,
+              random_state=23, subsample=0.8, use_label_encoder=False)",0.5207920792079207
+444,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=4,
+              n_estimators=25, random_state=14, subsample=0.8,
+              use_label_encoder=False)",0.4990099009900991
+445,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=4,
+              n_estimators=50, random_state=54, subsample=0.8,
+              use_label_encoder=False)",0.5178217821782178
+446,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=4,
+              n_estimators=50, random_state=69, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+447,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=4,
+              n_estimators=50, random_state=22, subsample=0.8,
+              use_label_encoder=False)",0.5267326732673266
+448,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=4, n_estimators=50,
+              random_state=75, subsample=0.8, use_label_encoder=False)",0.5138613861386139
+449,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=4,
+              n_estimators=50, random_state=78, subsample=0.8,
+              use_label_encoder=False)",0.514851485148515
+450,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=4,
+              random_state=57, subsample=0.8, use_label_encoder=False)",0.5237623762376238
+451,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=4,
+              random_state=32, subsample=0.8, use_label_encoder=False)",0.5316831683168317
+452,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=4,
+              random_state=20, subsample=0.8, use_label_encoder=False)",0.5267326732673266
+453,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=4, random_state=28,
+              subsample=0.8, use_label_encoder=False)",0.5257425742574258
+454,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=4,
+              random_state=6, subsample=0.8, use_label_encoder=False)",0.5039603960396041
+455,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=4,
+              n_estimators=150, random_state=35, subsample=0.8,
+              use_label_encoder=False)",0.5405940594059405
+456,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=4,
+              n_estimators=150, random_state=5, subsample=0.8,
+              use_label_encoder=False)",0.5306930693069306
+457,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=4,
+              n_estimators=150, random_state=83, subsample=0.8,
+              use_label_encoder=False)",0.502970297029703
+458,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=4, n_estimators=150,
+              random_state=76, subsample=0.8, use_label_encoder=False)",0.5198019801980199
+459,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=4,
+              n_estimators=150, random_state=38, subsample=0.8,
+              use_label_encoder=False)",0.5198019801980198
+460,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=5,
+              n_estimators=25, random_state=35, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366337
+461,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=5,
+              n_estimators=25, random_state=93, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366337
+462,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=5,
+              n_estimators=25, random_state=82, subsample=0.8,
+              use_label_encoder=False)",0.5356435643564357
+463,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=5, n_estimators=25,
+              random_state=15, subsample=0.8, use_label_encoder=False)",0.5227722772277229
+464,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=5,
+              n_estimators=25, random_state=58, subsample=0.8,
+              use_label_encoder=False)",0.513861386138614
+465,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=5,
+              n_estimators=50, random_state=66, subsample=0.8,
+              use_label_encoder=False)",0.5297029702970297
+466,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=5,
+              n_estimators=50, random_state=71, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475249
+467,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=5,
+              n_estimators=50, random_state=3, subsample=0.8,
+              use_label_encoder=False)",0.5356435643564357
+468,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=5, n_estimators=50,
+              random_state=7, subsample=0.8, use_label_encoder=False)",0.506930693069307
+469,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=5,
+              n_estimators=50, random_state=68, subsample=0.8,
+              use_label_encoder=False)",0.512871287128713
+470,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=5,
+              random_state=65, subsample=0.8, use_label_encoder=False)",0.5336633663366337
+471,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=5,
+              random_state=10, subsample=0.8, use_label_encoder=False)",0.5336633663366337
+472,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=5,
+              random_state=67, subsample=0.8, use_label_encoder=False)",0.5227722772277227
+473,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=5, random_state=12,
+              subsample=0.8, use_label_encoder=False)",0.50990099009901
+474,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=5,
+              random_state=67, subsample=0.8, use_label_encoder=False)",0.512871287128713
+475,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=5,
+              n_estimators=150, random_state=41, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+476,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=5,
+              n_estimators=150, random_state=1, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+477,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=5,
+              n_estimators=150, random_state=93, subsample=0.8,
+              use_label_encoder=False)",0.511881188118812
+478,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=5, n_estimators=150,
+              random_state=52, subsample=0.8, use_label_encoder=False)",0.501980198019802
+479,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=5,
+              n_estimators=150, random_state=15, subsample=0.8,
+              use_label_encoder=False)",0.5356435643564357
+480,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=6,
+              n_estimators=25, random_state=36, subsample=0.8,
+              use_label_encoder=False)",0.5217821782178217
+481,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=6,
+              n_estimators=25, random_state=72, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+482,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=6,
+              n_estimators=25, random_state=37, subsample=0.8,
+              use_label_encoder=False)",0.5138613861386139
+483,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=6, n_estimators=25,
+              random_state=20, subsample=0.8, use_label_encoder=False)",0.5386138613861385
+484,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=6,
+              n_estimators=25, random_state=29, subsample=0.8,
+              use_label_encoder=False)",0.5316831683168317
+485,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=6,
+              n_estimators=50, random_state=51, subsample=0.8,
+              use_label_encoder=False)",0.5366336633663366
+486,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=6,
+              n_estimators=50, random_state=97, subsample=0.8,
+              use_label_encoder=False)",0.5326732673267326
+487,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=6,
+              n_estimators=50, random_state=85, subsample=0.8,
+              use_label_encoder=False)",0.5247524752475247
+488,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=6, n_estimators=50,
+              random_state=32, subsample=0.8, use_label_encoder=False)",0.5158415841584159
+489,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=6,
+              n_estimators=50, random_state=92, subsample=0.8,
+              use_label_encoder=False)",0.5089108910891088
+490,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=6,
+              random_state=53, subsample=0.8, use_label_encoder=False)",0.5247524752475248
+491,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=6,
+              random_state=15, subsample=0.8, use_label_encoder=False)",0.5415841584158416
+492,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=6,
+              random_state=73, subsample=0.8, use_label_encoder=False)",0.5356435643564357
+493,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=6, random_state=47,
+              subsample=0.8, use_label_encoder=False)",0.5000000000000001
+494,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=6,
+              random_state=53, subsample=0.8, use_label_encoder=False)",0.5267326732673269
+495,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.01, max_depth=6,
+              n_estimators=150, random_state=42, subsample=0.8,
+              use_label_encoder=False)",0.5336633663366337
+496,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.02, max_depth=6,
+              n_estimators=150, random_state=31, subsample=0.8,
+              use_label_encoder=False)",0.515841584158416
+497,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.05, max_depth=6,
+              n_estimators=150, random_state=76, subsample=0.8,
+              use_label_encoder=False)",0.5069306930693068
+498,"XGBClassifier(eval_metric='auc', gamma=5, max_depth=6, n_estimators=150,
+              random_state=54, subsample=0.8, use_label_encoder=False)",0.514851485148515
+499,"XGBClassifier(eval_metric='auc', gamma=5, learning_rate=0.2, max_depth=6,
+              n_estimators=150, random_state=79, subsample=0.8,
+              use_label_encoder=False)",0.5019801980198021
